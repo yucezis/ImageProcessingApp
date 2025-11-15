@@ -1,27 +1,22 @@
-# Image Processing Application | Görüntü İşleme Uygulaması
+# Image Processing Application 
 
-## Project Description | Proje Açıklaması
+## Project Description
 
-**TR:**
-Bu proje, kullanıcıların çeşitli görüntü işleme algoritmalarını (gri tonlama, histogram germe, kenar bulma, filtreleme vb.) kolayca uygulayabileceği bir **Windows Forms tabanlı C# görüntü işleme uygulamasıdır**.  
-Proje, temel görüntü dönüşümleri ve filtreleme tekniklerini öğrenmek isteyen **bilgisayar mühendisliği öğrencileri** için geliştirilmiştir.
-
-**EN:**
 This project is a **C# Windows Forms-based image processing application** that allows users to easily apply various image processing algorithms *(grayscale conversion, histogram stretching, edge detection, filtering, etc.)*.  
 It was developed for **computer engineering students** who want to learn the fundamentals of image transformations and filtering techniques.
 
 ---
 
-## Features | Özellikler
+## Features 
 
-- Grayscale Conversion *(Gri Tonlama)*
-- Binary Transformation *(İkili Dönüşüm)*
-- Rotate by 90° or 180° *(Görüntü Döndürme)*
-- Cropping *(Kırpma)*
-- Color Space Conversion to HSV and CMYK *(Renk Uzayına Dönüştürme)*
-- Histogram Stretching *(Histogram Germe)*
-- Arithmetic Operations *(Toplama, Bölme)*
-- Contrast Adjustment *(Kontrast Ayarı)*
+- Grayscale Conversion 
+- Binary Transformation 
+- Rotate by 90° or 180°
+- Cropping
+- Color Space Conversion to HSV and CMYK 
+- Histogram Stretching 
+- Arithmetic Operations
+- Contrast Adjustment 
 - Edge Detection (Prewitt)
 - Filtering: Mean, Median, Unsharp Masking
 - Noise Addition *(Salt and Pepper Noise)*
@@ -29,7 +24,7 @@ It was developed for **computer engineering students** who want to learn the fun
 
 ---
 
-## Implemented Algorithms | Uygulanan Algoritmalar
+## Implemented Algorithms 
 
 - **Grayscale:** Converts image using the average of R, G, B values.  
 - **Binary Thresholding:** Converts image to black and white based on pixel threshold.  
@@ -40,7 +35,7 @@ It was developed for **computer engineering students** who want to learn the fun
 
 ---
 
-## Technologies Used | Kullanılan Teknolojiler
+## Technologies Used 
 
 - C# (.NET Framework)  
 - Windows Forms  
@@ -48,16 +43,23 @@ It was developed for **computer engineering students** who want to learn the fun
 
 ---
 
-## Usage | Kullanım
+## Usage
 
-**TR:**
-1. “Resim Yükle” butonuna tıklayarak bir görsel seçin.  
-2. İstediğiniz işlemi (örneğin “Gri Dönüşüm”) seçin.  
-3. İşlenmiş görüntü sağdaki alanda görüntülenecektir.  
-4. “Kaydet” butonuyla sonucu kaydedebilirsiniz.
-
-**EN:**
 1. Click **“Load Image”** to select a picture.  
 2. Choose an operation (e.g., **“Grayscale Conversion”**).  
 3. The processed image will appear in the right panel.  
 4. Click **“Save”** to store the result.
+
+---
+
+## Developer
+
+**Name:** Zişan Yüce  
+**Role:** Full Stack Developer & Computer Engineering Student  
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!  
+
+
+   
